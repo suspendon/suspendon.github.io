@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64pt"
+   height="64pt"
+   viewBox="0 0 22.577778 22.577778"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (unknown)"
+   sodipodi:docname="template.svg"
+   inkscape:export-filename="/home/vitalie/Downloads/gpapuc.github.io/arrows.png"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="22.982175"
+     inkscape:cy="0.31971752"
+     inkscape:document-units="pt"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="pt"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-global="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="975"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815"
+       units="pt"
+       spacingx="0.35277777"
+       spacingy="0.35277777"
+       visible="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-274.42223)">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0,289.94445 v 7.05556 l 22.57795,1.7e-4 -1.73e-4,-7.05573 z"
+       id="path897"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#ff0700;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -44.097221,278.65548 v 22.57795 h 22.577949 v -22.57795 z m 0.705555,0.70555 h 21.166667 v 21.16667 h -21.166667 z"
+       id="path819"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot889"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.85110331"
+       transform="matrix(0.14293277,0,0,0.14293277,8.3691823,284.26391)"><flowRegion
+         id="flowRegion891"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:1.85110331"><rect
+           id="rect893"
+           width="150.71428"
+           height="111.42857"
+           x="-40.714287"
+           y="47.476192"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:1.85110331" /></flowRegion><flowPara
+         id="flowPara895"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:1.85110331">marian</flowPara></flowRoot>  </g>
+</svg>

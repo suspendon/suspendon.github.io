@@ -1,0 +1,47 @@
+<html>
+<head>
+<meta http-equiv='Content-Type' content='text/html;charset=utf-8' />
+<meta name='referrer' content='origin' />
+<!--<meta name='viewport' content='width=device-width' />-->
+<link rel='icon' type='image/png' href='/favicon-16x16.png' sizes='16x16'>
+<meta name='description' content='Suspendon: șahul moldovenesc' />
+<title>Suspendon</title>
+<style type='text/css'>
+html {
+}
+
+body {
+	margin: 0;
+}
+.grid {
+	position: absolute;
+	max-width: 100%;
+	width: 642px;
+	height: 642px;
+	border: 1px solid #000;
+}
+
+.cell {
+	position: absolute;
+	width: 64px;
+	height: 64px;
+}
+
+#quote {
+	position: relative;
+	padding: 5px;
+	color: #fff;
+	border-radius: 5px;
+	background: #000;
+	font-size: 12px;
+	display: none;
+}
+</style>
+<script language='javascript' src='quotes.js'></script>
+<script language='javascript' src='suspendon.js'></script>
+</head>
+<body onload='init()'>
+<div id='grid' class='grid' onclick='handle_map_click(event);'></div>
+<div id='quote'></div>
+</body>
+</html>
